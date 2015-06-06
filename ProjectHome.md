@@ -1,0 +1,1 @@
+DroidLife is an implementation of Conway's Game of Life for Android. It packages many interesting seeds, and allows users to add additional downloaded seeds as well as design their own right from the app.
